@@ -10,7 +10,7 @@
 Design an application which hostel students can use to get their rooms cleaned on time. The current management system found it difficult to schedule cleaning services as students have varying class schedules which resulted in improper utilization of hostel room cleaning services.
 
 
-Wanna See the Demo?  http://keepittidy.kesug.com/login.php?i=1
+Wanna See the Demo?  https://keepittidy.lovestoblog.com/login.php
  For Demo:![Screenshot 2024-08-05 214658](https://github.com/user-attachments/assets/70167fa3-93e8-42b7-b537-fd12e58c33c1)
 ![Screenshot 2024-08-05 214646](https://github.com/user-attachments/assets/a645371b-b142-4c50-8945-4a69c0f1b85d)
 ![Screenshot 2024-08-05 214632](https://github.com/user-attachments/assets/7f13a949-0317-465a-84a0-b53e96c82dd0)
