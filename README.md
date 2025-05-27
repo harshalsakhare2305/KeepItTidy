@@ -11,6 +11,17 @@ Design an application which hostel students can use to get their rooms cleaned o
 
 
 Wanna See the Demo?  https://keepittidy.lovestoblog.com/login.php
+
+
+Admin id:admin123
+password:2305
+
+Roll Number :49
+password:12345
+
+
+
+
 ![Screenshot 2024-08-05 214658](https://github.com/user-attachments/assets/70167fa3-93e8-42b7-b537-fd12e58c33c1)
 ![Screenshot 2024-08-05 214646](https://github.com/user-attachments/assets/a645371b-b142-4c50-8945-4a69c0f1b85d)
 ![Screenshot 2024-08-05 214632](https://github.com/user-attachments/assets/7f13a949-0317-465a-84a0-b53e96c82dd0)
@@ -23,11 +34,7 @@ Wanna See the Demo?  https://keepittidy.lovestoblog.com/login.php
 ![Screenshot 2024-08-05 214430](https://github.com/user-attachments/assets/f3dba4c8-ad85-4ef3-953b-b3088eb63a0b)
 ![Screenshot 2024-08-05 214406](https://github.com/user-attachments/assets/6a1578aa-aa60-4b37-8697-482e8e01d6e0)
 
-Admin id:admin123
-password:2305
 
-Roll Number :49
-password:12345
 
 ### The project is divided into 3 segments
 1. Database Schema Design
